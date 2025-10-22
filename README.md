@@ -1,8 +1,8 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# NAME : NIRMAL N
-# REG.NO : 212223240107
-# Date :  20.05.25
+# NAME : Anwarsha E.M
+# REG.NO : 2305001002
+# Date :  20.10.25
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
